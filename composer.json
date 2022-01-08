@@ -1,31 +1,25 @@
 {
-    "name": "mayur/module-customerimport",
+    "name": "mayurcps/module-customerimport",
     "description": "Customer Import Using CSV and JSON",
     "type": "magento2-module",
     "license": "GPL-3.0",
     "version": "v1.0.0",
     "authors": [
         {
-            "name": "Mayur",
+            "name": "Mayurcps",
             "email": "mayur.prajapati1987@gmail.com"
         }
     ],
     "require": {
         "php": "~7.3.0||~7.4.0",
-        "magento/module-customer": "103.0.*",
-        "ext-curl": "*",
-        "ext-json": "*",
-        "zendframework/zend-json": "2.5.*@dev",
-    	"zendframework/zendrest": "*",
-    	"zendframework/zend-soap": "2.5.*@dev",
-    	"zendframework/zend-xmlrpc": "2.5.*@dev"
+        "magento/module-customer": "103.0.*"
     },
     "autoload": {
         "files": [
             "registration.php"
         ],
         "psr-4": {
-            "Mayur\\Customerimport\\": ""
+            "Mayurcps\\Customerimport\\": ""
         },
         "classmap": ["src"],
         "psr-0": {"Egoi": "src/"}
