@@ -20,9 +20,8 @@
         ],
         "psr-4": {
             "Mayurcps\\Customerimport\\": ""
-        },
-        "classmap": ["src"],
-        "psr-0": {"Egoi": "src/"}
+        }
     },
-    "minimum-stability": "dev"
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
