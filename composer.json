@@ -3,7 +3,7 @@
     "description": "Customer Import Using CSV and JSON",
     "type": "magento2-module",
     "license": "GPL-3.0",
-    "version": "1.0.0",
+    "version": "v1.0.0",
     "minimum-stability": "dev",
     "require": {
         "php": "~7.3.0||~7.4.0",
