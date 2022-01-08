@@ -5,4 +5,4 @@
  */
 use Magento\Framework\Component\ComponentRegistrar;
 
-ComponentRegistrar::register(ComponentRegistrar::MODULE, 'Mayur_Customerimport', __DIR__);
+ComponentRegistrar::register(ComponentRegistrar::MODULE, 'Mayurcps_Customerimport', __DIR__);
