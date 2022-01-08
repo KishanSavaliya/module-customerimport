@@ -1,7 +1,7 @@
 <?php
 declare(strict_types=1);
 
-namespace Mayur\Customerimport\Console\Command;
+namespace Mayurcps\Customerimport\Console\Command;
 
 use Magento\Customer\Api\CustomerRepositoryInterface;
 use Magento\Customer\Api\Data\CustomerInterfaceFactory;
