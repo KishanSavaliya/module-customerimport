@@ -25,5 +25,5 @@
             "Mayurcps\\Customerimport\\": ""
         }
     },
-    "minimum-stability": "stage"
+    "minimum-stability": "stable"
 }
