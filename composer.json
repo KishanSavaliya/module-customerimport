@@ -25,7 +25,7 @@
             "Mayurcps\\Customerimport\\": ""
         }
     },
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "repositories": {
         "magento": {
             "type": "composer",
