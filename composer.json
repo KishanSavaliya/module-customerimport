@@ -4,7 +4,7 @@
     "type": "magento2-module",
     "license": "GPL-3.0",
     "version": "v1.0.0",
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "require": {
         "php": "~7.3.0||~7.4.0",
         "magento/module-customer": "103.0.*"
